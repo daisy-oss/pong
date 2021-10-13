@@ -1,0 +1,26 @@
+.heading{
+    width: 100%;
+    text-align: left;
+    font-size: 20px;
+
+}
+.heading button{
+ float: right;
+}
+.Big_image{
+    width:100%;
+    height: 80%;
+}
+.gg{
+    color:aliceblue;
+    background-color: black;
+    margin-bottom: 0px;
+    line-height: 23px;
+}
+.class{
+    width: 45%;
+    display: inline-block;
+}
+.modal-dilog{
+    width: 90%;
+}
